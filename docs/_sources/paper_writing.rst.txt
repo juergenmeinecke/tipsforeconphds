@@ -1,25 +1,7 @@
 Writing a Research Paper in Economics
 *************************************************
 
-
-Essential Reading
-=================
-
-A strongly opinionated piece is offered by **Cochrane, John H.: Writing Tips for PhD students,
-2005**, available online somewhere. Full of interesting opinions. Read selectively.
-
-Another useful one is **A Guide to Writing in Economics** by Paul Dudenhefer. A correlated version
-of this text may be **On Economics Writing** by the same author. Both are available online, check
-them out.
-
-If you want to sharpen your English writing skills (and you should!), you must read **Strunk and
-White. The Elements of Style**. A classic.
-
-Another good one **Thomson, William. A Guide for the Young Economist, 2nd edition, Cambridge: MIT
-Press, 2011.** Here the sales pitch: *This book is an invaluable handbook for young economists
-working on their dissertations, preparing their first articles for submission to professional
-journals, getting ready for their first presentations at conferences and job seminars, or
-undertaking their first refereeing assignments.*
+First: have a look at my Reading List, in particular under *Essential Reading*. 
 
 
 The Big 5
@@ -483,37 +465,4 @@ The main parts of a table are the following:
     possible.
 
 
-Further Reading
-=================
-
-More sources (no particular order):
-
-*   Gopen, George D. Expectations: Teaching Writing from the
-    Reader’s Perspective. New York: Pearson Longman, 2004.
-
-*   McCloskey, Deirdre N. Economical Writing. 2 nd ed. Long Grove,
-    Ill.: Waveland Press, 2000.
-
-*   Miller, Jane E. The Chicago Guide to Writing about Multivariate
-    Analysis. Chicago: University of Chicago Press, 2005.
-    Miller, Jane E. The Chicago Guide to Writing about Numbers.
-    Chicago: University of Chicago Press, 2004.
-
-*   Neugeboren, Robert. The Student’s Guide to Writing Economics.
-    New York: Routledge, 2005.
-
-*   Szenberg, Michael, ed. Passion and Craft: Economists at Work.
-    Ann Arbor: University of Michigan Press, 1998.
-
-*   Swales, John M., and Christine B. Feak. Academic Writing for
-    Graduate Students: A Course for Nonnative Speakers of
-    English. Ann Arbor: University of Michigan Press, 1994.
-
-*   Williams, Joseph. Style: Ten Lessons in Clarity and Grace. 9 th ed.
-    New York: Longman, 2006.
-
-*   Wyrick, Thomas L. The Economist’s Handbook: A Research and
-    Writing Guide. St. Paul: West Publishing Company, 1994.
-    6869
-
-(Note: Many of the tips above are based on the sources that are mentioned here.) 
+(Note: A lot of the advice offered here is drawn from the readings recommended on the reading list.)
