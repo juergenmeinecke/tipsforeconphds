@@ -7,7 +7,7 @@
 Welcome to my website to help with your PhD research
 ===================================================================================
 
-last update: November 2021
+last update: March 2024
 
 This website hosts the material that may be helpful for Econ PhD students who are in the middle of
 writing a paper or preparing a talk/presentation
