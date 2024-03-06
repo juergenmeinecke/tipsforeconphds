@@ -80,5 +80,7 @@ An Instructive Presentation
 ==============================
 
 The following presentation offers an informative, exhaustive and humorous review of how to give
-presentations: :download:`Shapiro_slides <./_static/applied_micro_slides.pdf>`
+presentations: :download:`Shapiro_slides <../slides/applied_micro_slides.pdf>`
+
+
 
