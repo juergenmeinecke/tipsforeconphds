@@ -22,3 +22,8 @@ Advice
     :maxdepth: 1
 
     reading_list
+    report_writing
+    paper_writing
+    presentation_giving
+    academicjobmarket
+
