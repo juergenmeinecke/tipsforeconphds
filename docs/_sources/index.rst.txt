@@ -21,7 +21,7 @@ Advice
 .. toctree::
     :maxdepth: 1
 
-    reading_list
+    resources
     report_writing
     paper_writing
     presentation_giving
